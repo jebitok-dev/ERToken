@@ -1,4 +1,4 @@
-# Staking Contract
+# Deploy ERToken Contract
 
 > Deploying a simple ERC20 to Polygon Mumbai network usingOpenZeppelin's Defender Relay(api key & secret key) and Alchemy RPC. 
 
